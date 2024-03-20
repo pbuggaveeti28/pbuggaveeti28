@@ -15,10 +15,9 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/padmaja-buggaveeti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 ## 🔭 I'm currently working on
 
@@ -73,6 +72,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbuggaveeti28)](https://github.com/pbuggaveeti28)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti2&layout=compact)](https://github.com/pbuggaveeti28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti28&layout=compact)](https://github.com/pbuggaveeti28)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=pbuggaveeti28.pbuggaveeti28)](https://www.yushi.dev/)
