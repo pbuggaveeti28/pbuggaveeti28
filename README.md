@@ -31,16 +31,14 @@ I love developing Web Applications and designing them. Finding and resolving cha
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
+## 📈 GitHub Stats 
+
+[![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=pbuggaveeti28)](https://github.com/pbuggaveeti28)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti28&layout=compact)](https://github.com/pbuggaveeti28)-->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="padmaja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pbuggaveeti28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/padmaja-buggaveeti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
