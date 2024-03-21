@@ -12,9 +12,7 @@ I'm a Web Developer 💻!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/padmaja-buggaveeti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 </br>
 
@@ -75,3 +73,7 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti28&layout=compact)](https://github.com/pbuggaveeti28)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=pbuggaveeti28.pbuggaveeti28)](https://www.yushi.dev/)
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/padmaja-buggaveeti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
