@@ -10,7 +10,7 @@ Hi there, I'm Padmaja Buggaveeti</a> 👋
 I'm a Web Developer 💻, MERN Stack Enthusiast 🎯!
 </h2> 
 
-I love developing Web Applications and designing them. Finding and resolving challenges in code thrills me more. I love to connect with new people and explore new technologies.
+I love developing Web Applications and designing them. Finding and resolving challenges in code thrills me more. I love to connect with new people and explore new technologies. Apart from this, I'm also proficient with Data Structures and Algorithms. 
 
 
 </br>
