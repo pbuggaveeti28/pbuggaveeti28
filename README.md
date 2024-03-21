@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/pbuggaveeti28/pbuggaveeti28/assets/59131010/945aee16-96cc-4761-9024-df125b80cccb" alt="my banner"></a>
+<img src="https://github.com/pbuggaveeti28/pbuggaveeti28/assets/59131010/945aee16-96cc-4761-9024-df125b80cccb" alt="my banner">
 </p>
 
 <h3 align="center">
@@ -15,10 +15,6 @@ I love developing Web Applications and designing them. Finding and resolving cha
 
 </br>
 
-
-## 🌱 I'm currently learning
-
-- MERN STACK 
 
 ## 💼 Technical Skills
 
@@ -41,8 +37,7 @@ I love developing Web Applications and designing them. Finding and resolving cha
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pbuggaveeti28)](https://github.com/pbuggaveeti28)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti28&layout=compact)](https://github.com/pbuggaveeti28)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti28&layout=compact)](https://github.com/pbuggaveeti28)-->
 
 ### 🤝 Connect with me:
 
