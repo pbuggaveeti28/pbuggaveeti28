@@ -33,7 +33,7 @@ I love developing Web Applications and designing them. Finding and resolving cha
 
 ## 📈 GitHub Stats 
 
-[![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=pbuggaveeti28)](https://github.com/pbuggaveeti28)
+[![Padmaja's github stats](https://github-readme-stats.vercel.app/api?username=pbuggaveeti28&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/pbuggaveeti28)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbuggaveeti28&layout=compact)](https://github.com/pbuggaveeti28)-->
 
