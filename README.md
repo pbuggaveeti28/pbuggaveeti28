@@ -19,7 +19,7 @@ I love developing Web Applications and designing them. Finding and resolving cha
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F89820)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=008DDA)
+<!--![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=008DDA)-->
 
 
 
