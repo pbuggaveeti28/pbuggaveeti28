@@ -29,7 +29,6 @@ I love developing Web Applications and designing them. Finding and resolving cha
 
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&color=008DDA)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
