@@ -15,7 +15,7 @@ I love developing Web Applications and designing them. Finding and resolving cha
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=5fb7cf)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=NextJS&color=5fb7cf)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=5fb7cf)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
